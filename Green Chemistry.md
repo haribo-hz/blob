@@ -45,6 +45,6 @@ substances and the form of a substance used in a chemical process should be chos
   
 ![principles of green chemistry.png](Media/principles%20of%20green%20chemistry.png)  
   
-[2.2.16 hybridisation](/1%20Structure/2%20models%20of%20bonding%20and%20structure/2.2%20covalent%20model/2.2.16%20hybridisation.md)  
+[2.2.16 hybridisation](2.2.16%20hybridisation.md)  
   
 [2.2.16 hybridisation](2.2.16%20hybridisation.md)

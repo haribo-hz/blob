@@ -1,6 +1,6 @@
 #chem   
   
-[1 Structure/1 models of particulate nature of matter/1.1 introduction to particulate matter/1.1.2 kinetic molecular theory](/1%20Structure/1%20models%20of%20particulate%20nature%20of%20matter/1.1%20introduction%20to%20particulate%20matter/1.1.2%20kinetic%20molecular%20theory.md)  
+[1 Structure/1 models of particulate nature of matter/1.1 introduction to particulate matter/1.1.2 kinetic molecular theory](1.1.2%20kinetic%20molecular%20theory.md)  
   
 $$  
 \begin{array}{}  
